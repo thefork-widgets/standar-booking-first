@@ -1,0 +1,6 @@
+<!--Ordering to show standard booking above offers-->
+<style type="text/css">
+.content.clearfix.body-content{display:flex;flex-flow: column;}
+.offer.m_b.hr_b.saleType{order:2;}
+.offer.saleType{order:1;}
+</style>
